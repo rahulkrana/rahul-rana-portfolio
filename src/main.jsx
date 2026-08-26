@@ -8,7 +8,7 @@ import {
 import "./styles.css";
 
 const PROFILE = {
-  name: "Rahul Rana hello",
+  name: "Rahul Rana",
   role: "Java FullStack Developer",
   tagline: "Building scalable backend systems, RESTful APIs and intelligent applications.",
   location: "Bhopal, Madhya Pradesh, India",
