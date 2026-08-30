@@ -220,7 +220,7 @@ function App() {
           <div id="education" className="panel">
             <SectionTitle icon={<GraduationCap />} title="Education" />
             <Timeline items={[
-              ["B.Tech in Computer Science (AI/ML)", "Technocrats Institute of Technology, Bhopal", "2022 – 2026"],
+              ["B.Tech in Computer Science (AI/ML)", "Technocrats Institute of Technology, Bhopal", "2023 – 2027"],
               ["12th (JAC)", "Jharkhand Academic Council", "70.4%"],
               ["10th (CBSE)", "Central Board of Secondary Education", "71.4%"]
             ]} />
